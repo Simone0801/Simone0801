@@ -11,7 +11,7 @@
 
 I am a **Digital Management** student at **H-FARM College** specializing in **Data Analytics, Business Intelligence, and Workflow Automation**. 
 
-I bridge commercial business acumen with analytical engineering, translating messy transactional data into clean data models, and executive KPI dashboards that protect margins and drive strategic decision-making.
+I bridge commercial business acumen with data analysis, translating messy transactional data into clean data models, and executive KPI dashboards that protect margins and drive strategic decision-making.
 
 * **Consultant at Lumina Consulting Agency:** Designing workflow automations and internal tooling for enterprise & agency operations.
 * **Research Analyst at H-FARM Business School:** Researched agentic AI commerce, autonomous governance, and omnichannel strategies.
@@ -27,7 +27,7 @@ I bridge commercial business acumen with analytical engineering, translating mes
 | **Languages & Databases** | `SQL (SQLite, PostgreSQL)` • `Python (3.10+)` • `DAX` • `Power Query (M)` |
 | **Data Analytics** | `Pandas` • `NumPy` • `SciPy` • `Scikit-learn` |
 | **Business Intelligence & Visualisation** | `Power BI` • `Microsoft Excel (PivotTables, Advanced Modeling)` • `Plotly` • `Seaborn` • `Matplotlib` |
-| **Workflow Automation & AI** | `Prompt Engineering` • `Generative AI Integration` |
+| **AI** | `Prompt Engineering` • `Generative AI Integration` |
 | **Developer Workflow** | `Git` • `GitHub` • `VS Code` • `JupyterLab` |
 
 ---

@@ -1,7 +1,7 @@
 # Hi there, I'm Simone Angelo Vasilescu 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simone%20Angelo%20Vasilescu-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-angelo-vasilescu-78019136a)
-[![Email](https://img.shields.io/badge/Email-simone.vasilescu%40student.h--farm.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simone.vasilescu@student.h-farm.com)
+[![Email](https://img.shields.io/badge/Email-simone.vasilescu2005%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simone.vasilescu2005@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Treviso%2C%20Italy-blue?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Treviso,Italy)
 [![Academic](https://img.shields.io/badge/Education-Digital%20Management%20%40%20H--FARM-black?style=flat&logo=google-scholar&logoColor=white)](https://www.h-farm.com)
 

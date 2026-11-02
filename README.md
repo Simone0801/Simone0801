@@ -44,7 +44,7 @@ I bridge commercial business acumen with data analysis, translating messy transa
 > **Tech Stack:** `Python` • `Pandas` • `Statsmodels` • `Plotly`
 * **Objective:** Construct an empirical panel study across **100 countries over 25 years (1996–2020)** to determine whether hosting FIFA, UEFA, and Copa América tournaments generates lasting economic growth.
 * **Technical Highlights:** Harmonized World Bank and ILO macroeconomic indicators; implemented dynamic event-time alignment $[-3, +3]$ and estimated **Country Fixed Effects Difference-in-Differences (DiD)** regressions.
-* **Key Finding:** Tournaments deliver only a short-lived anticipation surge in tourism (+4.3% at $t=-1$), but **fail to produce sustained economic gains**, with host real GDP growth decelerating by **1.65%** post-event ($p < 0.001$).
+* **Key Finding:** Tournaments generate a temporary pre-event tourism surge (+3.8% at $t=-1$) followed by an immediate slump (-3.4% at $t=+1$), while host real GDP growth decelerates by **1.65%** post-event ($p < 0.001$) and national unemployment remains unaffected.
 
 ### 3. [Retail Commercial & Margin Performance Analysis](https://github.com/Simone0801/excel-superstore-sales-analysis)
 > **Tech Stack:** `Microsoft Excel` • `Power Query (ETL)` • `PivotTables` • `Financial Modeling`

@@ -36,9 +36,9 @@ I bridge commercial business acumen with data analysis, translating messy transa
 
 ### 1. [E-Commerce Customer Churn & RFM Segmentation](https://github.com/Simone0801/customer-churn-analysis)
 > **Tech Stack:** `SQL (SQLite)` • `Power BI` • `DAX` • `RFM Modeling`
-* **Objective:** Audit and segment 5,800+ customer accounts across 1.06M transaction records to identify silent attrition and quantify revenue at risk.
-* **Technical Highlights:** Cleaned raw records with SQLite CTEs and window functions (`NTILE(4)`); engineered 13 custom DAX measures in Power BI with an interactive RFM matrix canvas.
-* **Key Business Finding:** Quantified a **50.85% churn rate** (>90-day inactivity benchmark) and uncovered **£2.73M in recoverable revenue** concentrated in lapsed repeat buyers ("At Risk"), while 13% VIP accounts drove 54% of sales.
+* **Objective:** Audit and segment 5,800+ customer accounts across 1.06M transaction records to identify silent attrition and quantify historical gross spend exposure.
+* **Technical Highlights:** Automated Excel-to-SQLite ingestion in Python (`load_raw_data.py`); implemented multi-stage SQL cleaning and `NTILE(4)` quartile scoring with deterministic tie-breaking; engineered 20 DAX measures with a dynamic, slicer-responsive RFM matrix.
+* **Key Business Finding:** Quantified a **50.85% churn rate** (>90-day retail inactivity benchmark) and identified **£2.73M in historical gross spend exposure** concentrated in 1,701 lapsed repeat buyers ("At Risk"), while 12.9% VIP Champions drove **54.4%** (**£9.44M**) of total gross value.
 
 ### 2. [Macroeconomic Impact of Mega Football Tournaments](https://github.com/Simone0801/football-events-economic-analysis)
 > **Tech Stack:** `Python` • `Pandas` • `Statsmodels` • `Plotly`

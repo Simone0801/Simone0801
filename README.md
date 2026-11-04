@@ -13,7 +13,7 @@ I am a **Digital Management** student at **H-FARM College** specializing in **Da
 
 I bridge commercial business acumen with data analysis, translating messy transactional data into clean data models, and executive KPI dashboards that protect margins and drive strategic decision-making.
 
-* **Consultant at Lumina Consulting Agency:** Designing workflow automations and internal tooling for enterprise & agency operations.
+* **Consultant at Lumina Consulting Agency:** Co-Designing workflow automations and internal tooling for enterprise & agency operations.
 * **Research Analyst at H-FARM Business School:** Researched agentic AI commerce, autonomous governance, and omnichannel strategies.
 * **Academic Background:** Digital Management (Economics, Data Analytics, Coding & Data Management, Statistics & Probability, High-Growth Financing).
 * **Languages:** Italian (Native/Bilingual), English (Fluent - Degree in English), Romanian (Native/Bilingual).

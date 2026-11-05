@@ -9,14 +9,9 @@
 
 ## About Me
 
-I am a **Digital Management** student at **H-FARM College** specializing in **Data Analytics, Business Intelligence, and Workflow Automation**. 
+I am a **Digital Management** student at **H-FARM College** interested in **Data Analytics, Business Intelligence, and AI Automation**. 
 
 I bridge commercial business acumen with data analysis, translating messy transactional data into clean data models, and executive KPI dashboards that protect margins and drive strategic decision-making.
-
-* **Consultant at Lumina Consulting Agency:** Co-Designing workflow automations and internal tooling for enterprise & agency operations.
-* **Research Analyst at H-FARM Business School:** Researched agentic AI commerce, autonomous governance, and omnichannel strategies.
-* **Academic Background:** Digital Management (Economics, Data Analytics, Coding & Data Management, Statistics & Probability, High-Growth Financing).
-* **Languages:** Italian (Native/Bilingual), English (Fluent - Degree in English), Romanian (Native/Bilingual).
 
 ---
 
@@ -34,6 +29,8 @@ I bridge commercial business acumen with data analysis, translating messy transa
 
 ## Featured Portfolio Projects
 
+These are project that I developed:
+
 ### 1. [E-Commerce Customer Churn & RFM Segmentation](https://github.com/Simone0801/customer-churn-analysis)
 > **Tech Stack:** `SQL (SQLite)` • `Power BI` • `DAX` • `RFM Modeling`
 * **Objective:** Clean, aggregate, and segment 5,878 customer accounts across 1.06M transaction records to diagnose silent attrition and quantify historical gross spend exposure.
@@ -47,6 +44,7 @@ I bridge commercial business acumen with data analysis, translating messy transa
 * **Key Business Finding:** Orders with **discounts >20% compressed margins into steep deficits**, driving **-$135K in cumulative losses**; Tables and Bookcases accounted for **95% of total loss-making product drag (-$21.2K)**.
 
 ### 3. [Macroeconomic Impact of Mega Football Tournaments](https://github.com/Simone0801/football-events-economic-analysis)
+This was a first year final project for the course **Coding & Data Management**
 > **Tech Stack:** `Python` • `Pandas` •  `NumPy` • `Statsmodels` • `Plotly`
 * **Objective:** Evaluate how major international football tournaments (FIFA World Cup, UEFA Euro, Copa América) relate to host nations' economic growth, tourism flows, and employment across a 100-country, 25-year panel (1996–2020).
 * **Technical Highlights:** Harmonized multi-source World Bank and ILO macroeconomic series into a 2,500-observation panel via automated regex unpivoting and completeness auditing; normalized host timelines onto a 7-year event window ($[-3, +3]$) against 80 non-host comparison nations, featuring interactive Plotly dashboards and outlier sensitivity analysis.
@@ -54,20 +52,10 @@ I bridge commercial business acumen with data analysis, translating messy transa
 
 ---
 
-## Experience
-
-* **Consultant | AI & Digital Technologies | Lumina Consulting Agency** *(10/2025 – Present)*
-  * Architect workflow automations for internal operations and external clients using n8n and Generative AI.
-  * Co-Developed an event automated ticketing & inquiry routing pipeline handling 100+ requests daily for Aperyshow Treviso.
-* **Research Analyst | H-FARM Business School** *(03/2026 – 06/2026)*
-  * Centre of Competence on Global Commerce & Omnichannel: Investigated AI-to-AI autonomous commerce governance and modern agentic SEO frameworks.
-  * Contributed to qualitative and quantitative analysis across 10 executive interviews and 5 enterprise case studies.
-
----
 
 ## Let's Connect!
 
-I am always interested in discussing data analytics, business intelligence opportunities, and workflow automation.
+I am always interested in discussing data analytics, business intelligence opportunities, and AI automation.
 
 * **GitHub:** [@Simone0801](https://github.com/Simone0801)
 * **LinkedIn:** [Simone Angelo Vasilescu](https://www.linkedin.com/in/simone-angelo-vasilescu-78019136a)

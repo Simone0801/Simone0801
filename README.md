@@ -19,7 +19,7 @@ I bridge commercial business acumen with data analysis, translating messy transa
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages & Databases** | `SQL (SQLite, PostgreSQL)` • `Python (3.10+)` • `DAX` • `Power Query (M)` |
+| **Languages & Databases** | `SQL (SQLite, PostgreSQL)` • `Python` • `DAX` • `Power Query (M)` |
 | **Data Analytics** | `Pandas` • `NumPy` • `SciPy` • `Scikit-learn` |
 | **Business Intelligence & Visualisation** | `Power BI` • `Microsoft Excel (PivotTables, Advanced Modeling)` • `Plotly` • `Seaborn` • `Matplotlib` |
 | **AI** | `Prompt Engineering` • `Generative AI Integration` |
@@ -43,12 +43,6 @@ These are project that I developed:
 * **Technical Highlights:** Standardized data types and engineered custom duration/margin features via Power Query; built an interactive 11-PivotTable executive BI dashboard with diverging subcategory bar charts, dual-axis commercial trends, and cross-filtering slicers.
 * **Key Business Finding:** Orders with **discounts >20% compressed margins into steep deficits**, driving **-$135K in cumulative losses**; Tables and Bookcases accounted for **95% of total loss-making product drag (-$21.2K)**.
 
-### 3. [Macroeconomic Impact of Mega Football Tournaments](https://github.com/Simone0801/football-events-economic-analysis)
-This was a first year final project for the course **Coding & Data Management**
-> **Tech Stack:** `Python` • `Pandas` •  `NumPy` • `Statsmodels` • `Plotly`
-* **Objective:** Evaluate how major international football tournaments (FIFA World Cup, UEFA Euro, Copa América) relate to host nations' economic growth, tourism flows, and employment across a 100-country, 25-year panel (1996–2020).
-* **Technical Highlights:** Harmonized multi-source World Bank and ILO macroeconomic series into a 2,500-observation panel via automated regex unpivoting and completeness auditing; normalized host timelines onto a 7-year event window ($[-3, +3]$) against 80 non-host comparison nations, featuring interactive Plotly dashboards and outlier sensitivity analysis.
-* **Key Business Finding:** Host real GDP growth peaked during tournament preparation (+3.40% at $t=-1$) before decelerating post-event (+1.25% at $t=+1$), while tourism arrivals contracted post-event (-3.42% at $t=+1$). Controlling for common global calendar shocks and low-base outliers attenuated post-event differences, showing no robust evidence of sustained macroeconomic expansion.
 
 ---
 

@@ -53,5 +53,5 @@ I am always interested in discussing data analytics, business intelligence oppor
 
 * **GitHub:** [@Simone0801](https://github.com/Simone0801)
 * **LinkedIn:** [Simone Angelo Vasilescu](https://www.linkedin.com/in/simone-angelo-vasilescu-78019136a)
-* **Email:** [simone.vasilescu@student.h-farm.com](mailto:simone.vasilescu@student.h-farm.com)
+* **Email:** [simone.vasilescu2005@gmail.com](mailto:simone.vasilescu2005@gmail.com)
 * **Location:** Treviso & Venice Area, Italy
